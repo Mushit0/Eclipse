@@ -12,7 +12,7 @@ public class lista {
 		numeros.add(1,4);
 		
 		
-
+//jja
 			System.out.println("FOR MEJORADO: ");
 			for(int a:numeros) {
 				System.out.println(a);
